@@ -1,8 +1,10 @@
 # EL-RAYAH-Sales_Analysis
 
 # Sales Dashboard
+![wwwm](https://github.com/fesallomer/EL-RAYAH-Sales_Analysis/assets/167563648/ffa339a3-699e-483e-9313-a01556e16d2a)
 
-This repository contains a Python script to generate a sales dashboard using Plotly. The dashboard includes key metrics, trends, and visualizations for total sales, quantity sold, and customer data.
+
+This repository contains a dashboard includes key metrics, trends, and visualizations for total sales, quantity sold, and customer data.
 
 ## Key Insights
 
