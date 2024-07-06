@@ -18,9 +18,9 @@ This repository contains a dashboard includes key metrics, trends, and visualiza
 
 3. **Total Price by Type**:
    - **Distribution**: The sales distribution is heavily skewed towards specific types:
-     - SM 300 constitutes 51.1% of the total sales.
+     - others constitutes 51.1% of the total sales.
      - HY 300 constitutes 37.1% of the total sales.
-     - Other types make up the remaining 11.8%.
+     - SM 300, SM 290, and TM 300 make up the remaining 11.8%.
 
 4. **Count of Types**:
    - **Dominant Type**: The 'Other' type has the highest count, indicating a diverse range of products or categories not specifically listed.
